@@ -58,6 +58,7 @@ public class CloudCrafter : MonoBehaviour
                 cPos.x = cloudPosMax.x;
             }
             cloud.transform.position = cPos;
+            // LEFT OFF AT PAGE 641
         }
 
     }
